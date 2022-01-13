@@ -1,5 +1,5 @@
 # Internship Assignment for IoTReady
-## - Farhaan Tinwala
+## Farhaan Tinwala
 
 A react app where:
 1. User can upload an audio file
