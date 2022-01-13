@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.505a4326.css",
-    "main.js": "/static/js/main.00d07fe7.js",
-    "static/js/787.edfab719.chunk.js": "/static/js/787.edfab719.chunk.js",
-    "index.html": "/index.html",
-    "main.505a4326.css.map": "/static/css/main.505a4326.css.map",
-    "main.00d07fe7.js.map": "/static/js/main.00d07fe7.js.map",
-    "787.edfab719.chunk.js.map": "/static/js/787.edfab719.chunk.js.map"
+    "main.css": "/IoTReady-Internship-Assignment/static/css/main.505a4326.css",
+    "main.js": "/IoTReady-Internship-Assignment/static/js/main.e01b9d18.js",
+    "static/js/787.edfab719.chunk.js": "/IoTReady-Internship-Assignment/static/js/787.edfab719.chunk.js",
+    "index.html": "/IoTReady-Internship-Assignment/index.html",
+    "main.505a4326.css.map": "/IoTReady-Internship-Assignment/static/css/main.505a4326.css.map",
+    "main.e01b9d18.js.map": "/IoTReady-Internship-Assignment/static/js/main.e01b9d18.js.map",
+    "787.edfab719.chunk.js.map": "/IoTReady-Internship-Assignment/static/js/787.edfab719.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.505a4326.css",
-    "static/js/main.00d07fe7.js"
+    "static/js/main.e01b9d18.js"
   ]
 }
