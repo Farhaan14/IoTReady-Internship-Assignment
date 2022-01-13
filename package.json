@@ -1,7 +1,7 @@
 {
   "name": "audioapp",
   "version": "0.1.0",
-  "homepage": "https://Farhaan14.github.io",
+  "homepage": "https://Farhaan14.github.io/IoTReady-Internship-Assignment",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
